@@ -1,5 +1,13 @@
 # Bottom Workers
 
+## Live demo
+
+For demo visit:
+
+https://bottom.daggy.workers.dev
+
+This can be used as a rest api.
+
 ## Technologies Usd
 
 - bottomify
